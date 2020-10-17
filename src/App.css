@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+Form {
+  padding:20px;
+}
+
+.submit {
+  margin-top: 15px;
+}
+
+.change {
+  margin-left: 5px;
+}
